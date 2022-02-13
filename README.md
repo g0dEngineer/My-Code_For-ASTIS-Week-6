@@ -1,6 +1,6 @@
 # Universal Artificial Intelligence Diploma, lectured by God Bennett
 
-# Week4-Deep Reinforcement Learning using Deep Neural Networks-Submission-Sample
+# Week6-Deep Reinforcement Learning using Deep Neural Networks-Submission-Sample
 
 
 Solution is:
